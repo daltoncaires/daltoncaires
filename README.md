@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! I'm Dalton 👋
 
-<!--
-**daltoncaires/daltoncaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🩺 Medical Doctor | Postgraduate student in Ultrasound Imaging  
+💻 2 years of Computer Science before switching to medicine  
+🤖 Hobby: trading bots in Python (Binance Futures, B3 WIN/WDO, IBKR)  
+✈️ RC Planes | 🖨️ 3D Printing (FDM + Resin)
 
-Here are some ideas to get you started:
+### 🛠️ Technologies I use
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Pine Script](https://img.shields.io/badge/-Pine%20Script-089981?style=flat&logo=tradingview&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Belo Horizonte, MG — Brazil
